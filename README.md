@@ -50,10 +50,4 @@ You can now run the development server:
 
 <img src="https://user-images.githubusercontent.com/109582196/195113295-f9a8487c-28c2-4bec-a6bc-4ce59b3dd6c0.png">
 
-<h3>search city and add</h3>
-<img src="https://user-images.githubusercontent.com/109582196/195113413-aab5a6f5-c523-45e1-8121-aa6db6e4dba9.png">
-
-<h3>after adding </h3>
-<img src="https://user-images.githubusercontent.com/109582196/195113584-ec3f2526-b84d-4815-bf94-1be8c141c354.png">
-
 
