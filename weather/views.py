@@ -9,6 +9,7 @@ def index(request):
 
     if request.method == 'POST': # only true if form is submitted
         form = CityForm(request.POST) # add actual request data to form for processing
+        City.objects.all().delete()
         form.save() # will validate and save if validate
 
     form = CityForm()
